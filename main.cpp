@@ -4,6 +4,7 @@
 #include <memory>
 #include <vector>
 
+//Esta en una funcion lambda
 //auto des = [](irr::IrrlichtDevice*p){p->drop();};
 
 

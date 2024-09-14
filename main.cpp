@@ -5,6 +5,7 @@
 #include <vector>
 
 //Esta en una funcion lambda
+//Agregamos otra linea
 //auto des = [](irr::IrrlichtDevice*p){p->drop();};
 
 
